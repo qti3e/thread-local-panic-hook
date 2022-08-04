@@ -1,0 +1,12 @@
+[package]
+name = "thread-local-panic-hook"
+version = "0.1.0"
+edition = "2021"
+authors = ["Parsa Ghadimi <i@parsa.ooo>"]
+description = "Panic hooks that work per thread."
+license = "GPL-3.0"
+repository = "https://github.com/qti3e/thread-local-panic-hook"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
